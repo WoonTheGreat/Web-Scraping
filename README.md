@@ -13,3 +13,4 @@
 - Web scraping job based on skills 
 - Auto save result into folder "posts"
 - Auto refresh result every 10 minutes
+- Result shown in scrap1.png
